@@ -1,4 +1,4 @@
-# Getting Started with Smooth Seach App
+# Getting Started with Smooth Search App
 
 This application provides a search bar that can search smoothly and fast enough from a json file hosted on a node api endpoint. The whole application is dockerized and hence the app can be set up in just 4 easy steps!!
 
@@ -30,7 +30,7 @@ Git should be installed on your system
 
 * Come out from backend using `cd ..` and then run `docker-compose up -d --build`
 
-* Once the application is running we should get a message for for frontend and backend done and then run `docker-compose ps` to get the state `Up` from both frontend and backend along with ports on which they are running. You can also see the images and container being created in the docker desktop app
+* Once the application is running we should get a message for both frontend and backend done and then run `docker-compose ps` to get the state `Up` from both frontend and backend along with ports on which they are running. You can also see the images and container being created in the docker desktop app
 
 ## Features of the application and how to use it
 
